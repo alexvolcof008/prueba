@@ -12,8 +12,11 @@ body{
 
 @media screen and (min-width: 768px) {
 
-    .imagenes{
+    body{
         background-color: lightblue;
+    }
+
+    .imagenes{
         display: flex;
         justify-content: center;
         gap: 10px;
