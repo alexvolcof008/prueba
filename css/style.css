@@ -9,6 +9,11 @@ body{
     padding: 5%;
 }
 
+.imagenes{
+  position: relative;
+  right: 50px;
+}
+
 img{
     width:500px;
 }
